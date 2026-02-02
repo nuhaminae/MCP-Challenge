@@ -6,11 +6,11 @@ I added two sets of instructions to the .github/copilot-instructions.md file. Th
 
 - **What worked:**
 
-While trying to understand the agent I have discovered ways to improve ways to update dependency file by its own.
+While trying to understand the agent I have discovered ways to improve ways to update dependency file by its own.The agent was able to understand the rules and followed them to some extent.
 
 - **What didn't work:**
 
-From my personal expereince I make mistakes while commitiing and reversing it is a hastle. I have tried to add rules to avoid such mistakes by asking for user confirmation before accepting any commit or merge request. However, this did not work as expected. The agent still accepted the first commit or merge request without asking for confirmation.
+From my personal expereince I make mistakes while commitiing when I am in a hurry and reversing it is a hastle. So, I have tried to add rules to avoid such mistakes by asking for user confirmation before accepting any commit or merge request. However, this did not work as expected. The agent still accepted the first commit or merge request without asking for confirmation.
 
 - **What I hope to improve:**
 
