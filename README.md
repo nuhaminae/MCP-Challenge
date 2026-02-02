@@ -1,5 +1,7 @@
 # MCP-Challenge
 
+This project explores how to configure and improve an MCP server and its coding agent using custom rules. Inspired by Boris Cherny’s Claude Code workflow and community best practices, the goal is to create a safer, more effective agent that supports debugging, feature building, and iterative development.
+
 - **What I did:**
 
 I added two sets of instructions to the .github/copilot-instructions.md file. The first set of rules empahsize on asking for user confirmation before accepting any commit or merge request. The second set of rules are generalised rules to improve the AI agent's performance and interaction quality like explaining errors, citing sources, maintaining a professional tone, clarifying ambiguities, and suggesting code optimizations.
